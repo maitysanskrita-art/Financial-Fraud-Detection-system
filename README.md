@@ -1,4 +1,10 @@
-The repository contains the Machine Learning module of my college group project, AI-based Financial Fraud Detection System. 
+The repository contains the Machine Learning module of my college group project, AI-based Financial Fraud Detection System.
+
+
+The deployed application can be accessed here:
+Live Application: https://ai-powered-financial-fraud-detection-nbnze8mkfwqvnc7okth2bs.streamlit.app/
+
+
 My responsibility in this project is to design, develop, and evaluate the machine learning models that detect fraudulent financial activities and generate transaction risk scores.The web application and user interface were developed by other members of the team, while this repository currently focuses on the ML implementation.
 The objective is to identify potentially fraudulent transactions and assist users by providing an estimated fraud risk score for different payment scenarios.
 As Machine Learning Engineer for this project, I worked on:
@@ -23,4 +29,6 @@ Technologies used:
 * Matplotlib
 * Scikit-learn
 * Random Forest Classifier
-This repository currently contains the Machine Learning implementation of the project.
+
+The machine learning implementation has been completed and integrated into the project.
+The repository primarily showcases my ML contribution,while the complete application was developed collaboratively with my teammates by integrating individual contributions into a Streamlit-based web application.
